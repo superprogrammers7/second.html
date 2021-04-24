@@ -1,0 +1,10 @@
+E:\eng ilays\A.DEISEGNER\projects\C#\first_project\first_project\bin\Debug\first_project.exe.config
+E:\eng ilays\A.DEISEGNER\projects\C#\first_project\first_project\bin\Debug\first_project.exe
+E:\eng ilays\A.DEISEGNER\projects\C#\first_project\first_project\bin\Debug\first_project.pdb
+E:\eng ilays\A.DEISEGNER\projects\C#\first_project\first_project\obj\Debug\first_project.csprojAssemblyReference.cache
+E:\eng ilays\A.DEISEGNER\projects\C#\first_project\first_project\obj\Debug\first_project.Form1.resources
+E:\eng ilays\A.DEISEGNER\projects\C#\first_project\first_project\obj\Debug\first_project.Properties.Resources.resources
+E:\eng ilays\A.DEISEGNER\projects\C#\first_project\first_project\obj\Debug\first_project.csproj.GenerateResource.cache
+E:\eng ilays\A.DEISEGNER\projects\C#\first_project\first_project\obj\Debug\first_project.csproj.CoreCompileInputs.cache
+E:\eng ilays\A.DEISEGNER\projects\C#\first_project\first_project\obj\Debug\first_project.exe
+E:\eng ilays\A.DEISEGNER\projects\C#\first_project\first_project\obj\Debug\first_project.pdb
